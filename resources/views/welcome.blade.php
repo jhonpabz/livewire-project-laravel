@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    <livewire:first-component />
+
 </body>
 </html>
